@@ -1,3 +1,8 @@
+
+**Exp No:**
+
+**Date:**
+
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
@@ -18,10 +23,16 @@ Visual components and Python
 
 ## Experiment:
 
+![maths exp61](https://github.com/user-attachments/assets/2dc6cce4-78c1-4cc5-82a1-91ac50ecd25a)
 
 ## Program
 
+![maths exp62](https://github.com/user-attachments/assets/43a2e0f7-13e3-4391-9a76-2335a7fd37ba)
 
 ## Output
 
+![maths exp63](https://github.com/user-attachments/assets/a59ee817-5b78-45bd-9c23-bc3913f8eda7)
+
 ## Result
+
+The average number of material in the system and the conveyor and waiting time are successfully found.
